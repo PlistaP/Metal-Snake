@@ -1,4 +1,3 @@
-
 let gameStart = false;
 let xCollision = false;
 let yCollision = false; 
