@@ -1,5 +1,3 @@
-// @file Metal Snake (for Last Call BBS)
-// @version 0.1
 
 let gameStart = false;
 let xCollision = false;
